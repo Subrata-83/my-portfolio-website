@@ -5,6 +5,7 @@
 
 🔗 Live Website: 
 
+
 👩‍💻 About the Project
 This is a personal portfolio website built to showcase my skills, projects, certifications, and education as a B.Tech CSE(Data Science) student.
 
@@ -18,7 +19,7 @@ Certifications and achievements section
 Contact form with email integration
 Resume download option
 
-<h12>🛠️ Tech Stack</h2>
+<h2>🛠️ Tech Stack</h2>
 HTML5 – Structure
 CSS3 – Styling and layout
 JavaScript – Interactivity and animations
