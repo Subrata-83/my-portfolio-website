@@ -27,10 +27,13 @@ The goal of this portfolio is to present my work in a clean, professional, and i
 ***
 
 <h2>🛠️ Tech Stack</h2>
-HTML5 – Structure
-CSS3 – Styling and layout
-JavaScript – Interactivity and animations
-Netlify – Deployment
+<ul>
+  <li>HTML5 – Structure</li>
+  <li>CSS3 – Styling and layout</li>
+  <li>JavaScript – Interactivity and animations</li>
+  <li>Netlify – Deployment</li>
+</ul>
+
 
 ***
 
@@ -49,21 +52,23 @@ Personal_Website/
 ***
 
 <h2>📌 Sections Included</h2>
-Home – Introduction and quick actions
-About – Brief profile and career goal
-Skills – Technical skills and tools
-Projects – Real-world and academic projects
-Education – Academic background
-Certifications – Verified achievements
-Contact – Direct communication options
+<ul>
+  <li>Home – Introduction and quick actions</li>
+  <li>About – Brief profile and career goal</li>
+  <li>Skills – Technical skills and tools</li>
+  <li>Projects – Real-world and academic projects</li>
+  <li>Education – Academic background</li>
+  <li>Certifications – Verified achievements</li>
+  <li>Contact – Direct communication options</li>
+</ul>
 
 ***
 
 <h2>📬 Contact</h2>
-GitHub: https://github.com/Subrata-83
-LinkedIn: https://www.linkedin.com/in/subrata-de-b2a5212aa 
-Email: de828801@gmail.com
-Leetcode: https://leetcode.com/u/Subrata_De/
+<li>GitHub: https://github.com/Subrata-83</li>
+<li>LinkedIn: https://www.linkedin.com/in/subrata-de-b2a5212aa</li> 
+<li>Email: de828801@gmail.com</li>
+<li>Leetcode: https://leetcode.com/u/Subrata_De/</li>
 
 ***
 <h2>🎯 Purpose</h2>
@@ -76,10 +81,12 @@ This portfolio is created to:
 
 ***
 <h2>🚀 Future Improvements</h2>
-Add backend for contact form
-Improve UI animations
-Add project filtering
-Optimize performance
+<ul>
+  <li>Add backend for contact form</li>
+  <li>Improve UI animations</li>
+  <li>Add project filtering</li>
+  <li>Optimize performance</li>
+</ul>
 
 ***
 ⭐ Feel free to explore and connect!
