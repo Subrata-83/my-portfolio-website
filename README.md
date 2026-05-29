@@ -15,7 +15,7 @@ The goal of this portfolio is to present my work in a clean, professional, and i
 ***
 
 <h2>🚀 Features</h2>
-Responsive design (works on mobile, tablet, desktop)
+<h5>Responsive design (works on mobile, tablet, desktop)</h5>
 Smooth navigation with scroll effects
 Projects showcase with GitHub links
 Certifications and achievements section
