@@ -15,12 +15,14 @@ The goal of this portfolio is to present my work in a clean, professional, and i
 ***
 
 <h2>🚀 Features</h2>
-<h5>Responsive design (works on mobile, tablet, desktop)</h5>
-Smooth navigation with scroll effects
-Projects showcase with GitHub links
-Certifications and achievements section
-Contact form with email integration
-Resume download option
+<ul>
+  <li>Responsive design (works on mobile, tablet, desktop)</li>
+  <li>Smooth navigation with scroll effects</li>
+  <li>Projects showcase with GitHub links</li>
+  <li>Certifications and achievements section</li>
+  <li>Contact form with email integration</li>
+  <li>Resume download option</li>
+</ul>
 
 ***
 
@@ -32,7 +34,9 @@ Netlify – Deployment
 
 ***
 
-📂 Project Structure
+## 📁 Project Structure
+
+```plaintext
 Personal_Website/
 │── index.html
 │── style.css
@@ -40,6 +44,7 @@ Personal_Website/
 │── images/
 │── pdfs/
 │── resume.pdf
+```
 
 ***
 
