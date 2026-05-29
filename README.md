@@ -4,13 +4,16 @@
 🌐 Personal Portfolio – Subrata De
 
 🔗 Live Website: 
+
 ***
 
-<<h2>👩‍💻 About the Project</h2>
+<h2>👩‍💻 About the Project</h2>
 This is a personal portfolio website built to showcase my skills, projects, certifications, and education as a B.Tech CSE(Data Science) student.
 
 The goal of this portfolio is to present my work in a clean, professional, and interactive way for recruiters and internship opportunities.
+
 ***
+
 <h2>🚀 Features</h2>
 Responsive design (works on mobile, tablet, desktop)
 Smooth navigation with scroll effects
@@ -18,13 +21,17 @@ Projects showcase with GitHub links
 Certifications and achievements section
 Contact form with email integration
 Resume download option
+
 ***
+
 <h2>🛠️ Tech Stack</h2>
 HTML5 – Structure
 CSS3 – Styling and layout
 JavaScript – Interactivity and animations
 Netlify – Deployment
+
 ***
+
 📂 Project Structure
 Personal_Website/
 │── index.html
@@ -33,9 +40,9 @@ Personal_Website/
 │── images/
 │── pdfs/
 │── resume.pdf
-│── certificate.pdf
 
 ***
+
 <h2>📌 Sections Included</h2>
 Home – Introduction and quick actions
 About – Brief profile and career goal
@@ -46,21 +53,22 @@ Certifications – Verified achievements
 Contact – Direct communication options
 
 ***
+
 <h2>📬 Contact</h2>
 GitHub: https://github.com/Subrata-83
-
 LinkedIn: https://www.linkedin.com/in/subrata-de-b2a5212aa 
-
 Email: de828801@gmail.com
-
 Leetcode: https://leetcode.com/u/Subrata_De/
+
 ***
 <h2>🎯 Purpose</h2>
 This portfolio is created to:
+<ul>
+  <li>Showcase my development and data skills</li>
+  <li>Build an online professional presenc</li>
+  <li>Apply for internships and opportunities</li>
+</ul>
 
-Showcase my development and data skills
-Build an online professional presence
-Apply for internships and opportunities
 ***
 <h2>🚀 Future Improvements</h2>
 Add backend for contact form
