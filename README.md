@@ -2,6 +2,7 @@
 
 
 🌐 Personal Portfolio – Subrata De
+
 🔗 Live Website: 
 
 👩‍💻 About the Project
@@ -16,7 +17,8 @@ Projects showcase with GitHub links
 Certifications and achievements section
 Contact form with email integration
 Resume download option
-🛠️ Tech Stack
+
+<h12>🛠️ Tech Stack</h2>
 HTML5 – Structure
 CSS3 – Styling and layout
 JavaScript – Interactivity and animations
@@ -42,8 +44,11 @@ Contact – Direct communication options
 
 📬 Contact
 GitHub: https://github.com/Subrata-83
-LinkedIn: https://www.linkedin.com/in/subrata-de-b2a5212aa   
+
+LinkedIn: https://www.linkedin.com/in/subrata-de-b2a5212aa 
+
 Email: de828801@gmail.com
+
 Leetcode: https://leetcode.com/u/Subrata_De/
 
 🎯 Purpose
@@ -52,6 +57,7 @@ This portfolio is created to:
 Showcase my development and data skills
 Build an online professional presence
 Apply for internships and opportunities
+
 🚀 Future Improvements
 Add backend for contact form
 Improve UI animations
