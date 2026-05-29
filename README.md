@@ -67,7 +67,7 @@ Personal_Website/
 <h2>📬 Contact</h2>
 <li>GitHub: https://github.com/Subrata-83</li>
 <li>LinkedIn: https://www.linkedin.com/in/subrata-de-b2a5212aa</li> 
-<li>Email: mailto:de828801@gmail.com </li>
+<li>mail: <a href="mailto:de828801@gmail.com">de828801@gmail.com</a><br> </li>
 <li>Leetcode: https://leetcode.com/u/Subrata_De/</li>
 
 ***
