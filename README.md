@@ -3,7 +3,7 @@
 
 🌐 Personal Portfolio – Subrata De
 
-🔗 Live Website: https://subrata-portfolio-website.netlify.app/
+🔗 Live Website: https://subrata-portofolio-website.netlify.app/
 
 ***
 
